@@ -1,0 +1,14 @@
+/face_recognition/ServiceAccountKey.json
+*.iml
+/Firebase Upload app/.gradle
+/Firebase Upload app/local.properties
+/Firebase Upload app/.idea/caches
+/Firebase Upload app/.idea/libraries
+/Firebase Upload app/.idea/modules.xml
+/Firebase Upload app/.idea/workspace.xml
+/Firebase Upload app/.idea/navEditor.xml
+/Firebase Upload app/.idea/assetWizardSettings.xml
+/Firebase Upload app/.DS_Store
+/Firebase Upload app/build
+/Firebase Upload app/captures
+/Firebase Upload app/.externalNativeBuild
